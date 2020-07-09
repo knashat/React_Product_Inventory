@@ -1,2 +1,2 @@
-# React_Product_Inventory
+# ReactProject2
 Created with CodeSandbox
