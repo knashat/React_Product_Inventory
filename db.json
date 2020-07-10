@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Milk",
+      "quantity": "51",
+      "type": "Bottles",
+      "id": 1
+    },
+    {
+      "name": "Pepsi",
+      "quantity": "65",
+      "type": "Cans",
+      "id": 2
+    },
+    {
+      "name": "Tomato",
+      "quantity": "43",
+      "type": "Kilos",
+      "id": 3
+    },
+    {
+      "name": "Cheese",
+      "quantity": "77",
+      "type": "Units",
+      "id": 4
+    }
+  ]
+}
